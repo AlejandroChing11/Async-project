@@ -1,0 +1,20 @@
+{
+  "name": "async-project",
+  "version": "1.0.0",
+  "description": "Here you will see a landing page using an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroChing11/Async-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejandroChing11/Async-project/issues"
+  },
+  "homepage": "https://github.com/AlejandroChing11/Async-project#readme"
+}
