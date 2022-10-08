@@ -12,4 +12,14 @@ const options = {
 async function fechData(urlApi) {
     const reponse = await fetch(urlApi, options);
     const data = await reponse.json();
+    return data;
 }
+
+(async () => {
+    try {
+        const post = await fetchData(API);
+        
+    } catch (e) {
+
+    }
+})();
