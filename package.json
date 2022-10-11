@@ -4,7 +4,7 @@
   "description": "Here you will see a landing page using an API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlejandroChing11/Async-project/issues"
   },
-  "homepage": "https://github.com/AlejandroChing11/Async-project#readme"
+  "homepage": "https://github.com/AlejandroChing11/Async-project#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
